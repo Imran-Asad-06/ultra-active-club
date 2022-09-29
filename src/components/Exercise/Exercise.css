@@ -37,7 +37,7 @@
     justify-content: center;
   
     gap: 5px;
-    background-color: #c9a2e9;
+    background-color: #bf777b;
     position: absolute;
     bottom: 0px;
     padding-top: 7px;
@@ -50,5 +50,5 @@
     text-align: center;
 }
 .btn:hover{
-    background-color: #8e21e7;
+    background-color: #e91e63;
 }

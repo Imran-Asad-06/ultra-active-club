@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Dumble",
+        "name": "Training Bench",
         "details": "Exercise is defined as any movement that makes your muscles work and requires your body to burn calories.",
         "age": "20-25",
         "time": 20,
@@ -21,7 +21,7 @@
       },
     {
         "id": "3",
-        "name": "Dumble",
+        "name": "Stationary Bicycle",
         "details": "Exercise is defined as any movement that makes your muscles work and requires your body to burn calories.",
         "age": "20-25",
         "time": 15,
@@ -41,7 +41,7 @@
       },
     {
         "id": "5",
-        "name": "Dumble",
+        "name": "Dumbbell Set",
         "details": "Exercise is defined as any movement that makes your muscles work and requires your body to burn calories.",
         "age": "20-25",
         "time": 20,
@@ -51,7 +51,7 @@
       },
     {
         "id": "6",
-        "name": "Dumble",
+        "name": "Treadmill",
         "details": "Exercise is defined as any movement that makes your muscles work and requires your body to burn calories.",
         "age": "25-30",
         "time": 30,

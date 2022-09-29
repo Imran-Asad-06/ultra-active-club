@@ -1,8 +1,8 @@
 [
     {
         "id": "1",
-        "name": "Dumble",
-        "details": "Exercise is defined as any movement that makes your muscles work and requires your body to burn calories.",
+        "name": "Training Bench",
+        "details": "A training bench is an adjustable platform used for performing weight training exercises. You should be able to adjust the backrest.",
         "age": "20-25",
         "time": 20,
     
@@ -11,8 +11,8 @@
       },
     {
         "id": "2",
-        "name": "Dumble",
-        "details": "Exercise is defined as any movement that makes your muscles work and requires your body to burn calories.",
+        "name": "Pull-Up Frame and Bar",
+        "details": "This is for doing chin-ups and pull-ups. Look for a squat rack with a pull-up bar up top, and you'll save on cost and space.",
         "age": "25-30",
         "time": 20,
     
@@ -21,8 +21,8 @@
       },
     {
         "id": "3",
-        "name": "Dumble",
-        "details": "Exercise is defined as any movement that makes your muscles work and requires your body to burn calories.",
+        "name": "Stationary Bicycle",
+        "details": "The stationary bike is an alternative to the treadmill and rowing machine for cardiovascular endurance training.",
         "age": "20-25",
         "time": 15,
     
@@ -31,8 +31,8 @@
       },
     {
         "id": "4",
-        "name": "Dumble",
-        "details": "Exercise is defined as any movement that makes your muscles work and requires your body to burn calories.",
+        "name": "Rowing Machine",
+        "details": "ou can do a lot with a total-body rowing machine. .",
         "age": "25-30",
         "time": 25,
     
@@ -41,8 +41,8 @@
       },
     {
         "id": "5",
-        "name": "Dumble",
-        "details": "Exercise is defined as any movement that makes your muscles work and requires your body to burn calories.",
+        "name": "Fitness Ball",
+        "details": "You can design a lot of exercises around a fitness ball, especially core exercises. .",
         "age": "20-25",
         "time": 20,
     
@@ -51,8 +51,8 @@
       },
     {
         "id": "6",
-        "name": "Dumble",
-        "details": "Exercise is defined as any movement that makes your muscles work and requires your body to burn calories.",
+        "name": "Treadmill",
+        "details": "Invest in some type of cardio equipment. If you can afford it, you might be able to include several different types of machines.",
         "age": "25-30",
         "time": 30,
     
