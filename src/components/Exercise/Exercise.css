@@ -14,12 +14,6 @@
 
 
 }
-.exercise-info p{
-    padding-left: 6px;
-}
-.exercise-info h2{
-    padding-left: 6px;
-}
 .exercise-info img{
     height: 200px;
     width: 300px;
@@ -28,6 +22,11 @@
     border-radius: 7px;
     padding-left: 5px;
 }
+
+.exercise-info h2{
+    padding-left: 6px;
+}
+
 .btn{
     width: 100%;
     border: 0px;
@@ -44,6 +43,8 @@
     padding-bottom: 7px;
     color: white;
 
+}.exercise-info p{
+    padding-left: 6px;
 }
 .btn p{
     color: white;
