@@ -5,7 +5,7 @@ const Ques = () => {
     return (
       
             <div className='container' >
-              <h1>Q/A</h1>
+              <h1>Question and Answer</h1>
               <div className='qItem'>
                 {/* ques-01 */}
             <div >
