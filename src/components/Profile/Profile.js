@@ -1,8 +1,14 @@
 import React, { useEffect, useState }  from 'react';
 import { getStorage, saveToStorage } from '../../utilities/Db';
 import './Profile.css';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Profile = ({cart}) => {
+     
+  
+   const notify = () => toast("Thanks for completing");
+
   
 
 const [value,setValue] = useState([])
@@ -68,7 +74,8 @@ const breakTime =(e)=>{
            <div className='brk-time'>
             <h3>Break Time :{value} second </h3>
            </div>
-           <button className='btn-activity' ><p>Activity Complete</p></button>
+           <button className='btn-activity' onClick={notify} ><p>Activity Complete</p></button>
+           <ToastContainer />
         </div>
         </div>
     );
